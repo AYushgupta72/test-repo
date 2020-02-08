@@ -1,1 +1,2 @@
 Hey, I am in my git-hub class.
+Hey, this is the second line.
